@@ -1,0 +1,18 @@
+.card_wrapper{
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-around;
+    background: #fff;
+}
+.column_heading{
+    padding: 0.5rem 0.25rem;
+    font-size: 16px;
+    background: #cfd05b;
+    color: rgb(143 26 26);
+    margin-bottom: 1rem;
+}
+.stageContainer{
+    border: 2px solid #b0dfcb;
+    margin: 0.05rem;
+    border-radius: 0.25rem;
+}
